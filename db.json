@@ -1,0 +1,103 @@
+{   
+    "secDistrict": [
+        { "name":"Akkar", "Sunnites":3, "Shiites":0, "Druze":0, "Alawites":1, "Maronites":1, "Orthodox":2, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"North 1", "mainDistrict":"North" },
+        { "name":"Menyeh", "Sunnites":1, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":0, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"North 2", "mainDistrict":"North" },
+        { "name":"Donniyeh", "Sunnites":2, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":0, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"North 2", "mainDistrict":"North" },
+        { "name":"Tripoli", "Sunnites":5, "Shiites":0, "Druze":0, "Alawites":1, "Maronites":1, "Orthodox":1, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"North 2", "mainDistrict":"North" },
+        { "name":"Batroun", "Sunnites":0, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":2, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"North 3", "mainDistrict":"North" },
+        { "name":"Zgharta", "Sunnites":0, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":3, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"North 3", "mainDistrict":"North" },
+        { "name":"Koura", "Sunnites":0, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":0, "Orthodox":3, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"North 3", "mainDistrict":"North" },
+        { "name":"Bsharreh", "Sunnites":0, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":2, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"North 3", "mainDistrict":"North" },
+        { "name":"Jbeil", "Sunnites":0, "Shiites":1, "Druze":0, "Alawites":0, "Maronites":2, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"Mount Lebanon 1", "mainDistrict":"Mount Lebanon" },
+        { "name":"Keserwen", "Sunnites":0, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":5, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"Mount Lebanon 1", "mainDistrict":"Mount Lebanon" },
+        { "name":"Metn", "Sunnites":0, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":4, "Orthodox":2, "Catholics":1, "Protestants":0, "Minorities":0,"Armenian_Orthodox":1, "Armenian_Catholics":0, "district":"Mount Lebanon 2", "mainDistrict":"Mount Lebanon" },
+        { "name":"Baabda", "Sunnites":0, "Shiites":2, "Druze":1, "Alawites":0, "Maronites":3, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"Mount Lebanon 3", "mainDistrict":"Mount Lebanon" },
+        { "name":"Aley", "Sunnites":0, "Shiites":0, "Druze":2, "Alawites":0, "Maronites":2, "Orthodox":1, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"Mount Lebanon 4", "mainDistrict":"Mount Lebanon" },
+        { "name":"Shouf", "Sunnites":2, "Shiites":0, "Druze":2, "Alawites":0, "Maronites":3, "Orthodox":0, "Catholics":1, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"Mount Lebanon 4", "mainDistrict":"Mount Lebanon" },
+        { "name":"Jezzine", "Sunnites":0, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":2, "Orthodox":0, "Catholics":1, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"South 1", "mainDistrict":"South" },
+        { "name":"Saida", "Sunnites":2, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":0, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"South 1", "mainDistrict":"South" },
+        { "name":"Zahraneh", "Sunnites":0, "Shiites":2, "Druze":0, "Alawites":0, "Maronites":0, "Orthodox":0, "Catholics":1, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"South 2", "mainDistrict":"South" },
+        { "name":"Sour", "Sunnites":0, "Shiites":4, "Druze":0, "Alawites":0, "Maronites":0, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"South 2", "mainDistrict":"South" },
+        { "name":"Nabatiyeh", "Sunnites":0, "Shiites":3, "Druze":0, "Alawites":0, "Maronites":0, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"South 3", "mainDistrict":"South" },
+        { "name":"Bent Jbeil", "Sunnites":0, "Shiites":3, "Druze":0, "Alawites":0, "Maronites":0, "Orthodox":0, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"South 3", "mainDistrict":"South" },
+        { "name":"Marjeyoun Hasbayya", "Sunnites":1, "Shiites":2, "Druze":1, "Alawites":0, "Maronites":0, "Orthodox":1, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"South 3", "mainDistrict":"South" },
+        { "name":"Baalback Hermel", "Sunnites":2, "Shiites":6, "Druze":0, "Alawites":0, "Maronites":1, "Orthodox":0, "Catholics":1, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"Beqah 1", "mainDistrict":"Beqah" },
+        { "name":"Zahleh", "Sunnites":1, "Shiites":1, "Druze":0, "Alawites":0, "Maronites":1, "Orthodox":1, "Catholics":2, "Protestants":0, "Minorities":0,"Armenian_Orthodox":1, "Armenian_Catholics":0, "district":"Beqah 2", "mainDistrict":"Beqah" },
+        { "name":"Beqah Gharbeh", "Sunnites":2, "Shiites":1, "Druze":1, "Alawites":0, "Maronites":1, "Orthodox":1, "Catholics":0, "Protestants":0, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"Beqah 3", "mainDistrict":"Beqah" },
+        { "name":"Beirut 1", "Sunnites":0, "Shiites":0, "Druze":0, "Alawites":0, "Maronites":1, "Orthodox":1, "Catholics":1, "Protestants":0, "Minorities":1,"Armenian_Orthodox":3, "Armenian_Catholics":1, "district":"Beirut 1", "mainDistrict":"Beirut" },
+        { "name":"Beirut 2", "Sunnites":6, "Shiites":2, "Druze":1, "Alawites":0, "Maronites":0, "Orthodox":1, "Catholics":0, "Protestants":1, "Minorities":0,"Armenian_Orthodox":0, "Armenian_Catholics":0, "district":"Beirut 2", "mainDistrict":"Beirut" }
+            ],
+    
+    "district": [
+        { "name":"North 1", "mainDistrict":"North" },
+        { "name":"North 2", "mainDistrict":"North" },
+        { "name":"North 3", "mainDistrict":"North" },
+        { "name":"Mount Lebanon 1", "mainDistrict":"Mount Lebanon" },
+        { "name":"Mount Lebanon 2", "mainDistrict":"Mount Lebanon" },
+        { "name":"Mount Lebanon 3", "mainDistrict":"Mount Lebanon" },
+        { "name":"Mount Lebanon 4", "mainDistrict":"Mount Lebanon" },
+        { "name":"South 1", "mainDistrict":"South" },
+        { "name":"South 2", "mainDistrict":"South" },
+        { "name":"South 3", "mainDistrict":"South" },
+        { "name":"Beqah 1", "mainDistrict":"Beqah" },
+        { "name":"Beqah 2", "mainDistrict":"Beqah" },
+        { "name":"Beqah 3", "mainDistrict":"Beqah" },
+        { "name":"Beirut 1", "mainDistrict":"Beirut" },
+        { "name":"Beirut 2", "mainDistrict":"Beirut" }
+            ],
+    
+    "mainDistrict": [
+        { "name":"North" },
+        { "name":"Mount Lebanon" },
+        { "name":"South" },
+        { "name":"Beqah" },
+        { "name":"Beirut" }
+            ],
+    
+    "storedLists": 
+    {
+        "North 1":1,
+        "North 2":1,
+        "North 3": [   
+            { "name":"Ouwet", "district":"North 3", "candidatesNumber":10, "votesNumber":37000, "candidates": [
+                {"name":"Fadi Saad", "sect":"Maronites", "secDistrict":"Batroun", "votesNumber":7000},
+                {"name":"kataeb", "sect":"Maronites", "secDistrict":"Batroun", "votesNumber":3000},
+                {"name":"Marios Beani", "sect":"Maronites", "secDistrict":"Zgharta", "votesNumber":6000},
+                {"name":"kataeb2", "sect":"Maronites", "secDistrict":"Zgharta", "votesNumber":1000},
+                {"name":"Kaysar Moawad", "sect":"Maronites", "secDistrict":"Zgharta", "votesNumber":2000},
+                {"name":"Fadi Karam", "sect":"Orthodox", "secDistrict":"Koura", "votesNumber":9000},
+                {"name":"Kataeb3", "sect":"Orthodox", "secDistrict":"Koura", "votesNumber":1000},
+                {"name":"Yasar", "sect":"Orthodox", "secDistrict":"Koura", "votesNumber":1000},
+                {"name":"Strida Geagea", "sect":"Maronites", "secDistrict":"Bsharreh", "votesNumber":9000},
+                {"name":"Michel Ishaq", "sect":"Maronites", "secDistrict":"Bsharreh", "votesNumber":6000} ]},
+            { "name":"Marada", "district":"North 3", "candidatesNumber":7, "votesNumber":36000, "candidates": [
+                {"name":"Botrous Harb", "sect":"Maronites", "secDistrict":"Batroun", "votesNumber":7000},
+                {"name":"Tony Franjiyyeh", "sect":"Maronites", "secDistrict":"Zgharta", "votesNumber":9000},
+                {"name":"Karam", "sect":"Maronites", "secDistrict":"Zgharta", "votesNumber":8000},
+                {"name":"Douwayheh", "sect":"Maronites", "secDistrict":"Zgharta", "votesNumber":1000},
+                {"name":"Salim Karam", "sect":"Orthodox", "secDistrict":"Koura", "votesNumber":6000},
+                {"name":"Feyiz Ghosn", "sect":"Orthodox", "secDistrict":"Koura", "votesNumber":2000},
+                {"name":"Jobran Tawk", "sect":"Maronites", "secDistrict":"Bsharreh", "votesNumber":2000} ]},
+            { "name":"Aoun", "district":"North 3", "candidatesNumber":7, "votesNumber":32000, "candidates": [
+                {"name":"Jobran Basil", "sect":"Maronites", "secDistrict":"Batroun", "votesNumber":10000},
+                {"name":"Michel Moawad", "sect":"Maronites", "secDistrict":"Zgharta", "votesNumber":9000},
+                {"name":"Jawad Boulos", "sect":"Maronites", "secDistrict":"Zgharta", "votesNumber":1000},
+                {"name":"Pierre Raffoul", "sect":"Maronites", "secDistrict":"Zgharta", "votesNumber":1000},
+                {"name":"Nicolas Ghosn", "sect":"Orthodox", "secDistrict":"Koura", "votesNumber":6000},
+                {"name":"Atallah", "sect":"Orthodox", "secDistrict":"Koura", "votesNumber":2000},
+                {"name":"Issa Khoury", "sect":"Maronites", "secDistrict":"Bsharreh", "votesNumber":2000} ]}
+                    ],
+        "Mount Lebanon 1":1,
+        "Mount Lebanon 2":1,
+        "Mount Lebanon 3":1,
+        "Mount Lebanon 4":1,
+        "South 1":1,
+        "South 2":1,
+        "South 3":1,
+        "Beqah 1":1,
+        "Beqah 2":1,
+        "Beqah 3":1,
+        "Beirut 1":1,
+        "Beirut 2":1
+    }
+}
