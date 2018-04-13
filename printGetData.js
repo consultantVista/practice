@@ -1,17 +1,5 @@
 printRequestFillDistrict(1);
 
-function wait(milliseconds)
-{
-	let start = new Date().getTime();
-	while(true)
-	{
-		if ((new Date().getTime() - start) > milliseconds)
-		{
-			break;
-	  	}
-	}
-}
-
 function printRequestFillDistrict(x)
 {	
 	firebaseRef.child("district").once("value", y => 

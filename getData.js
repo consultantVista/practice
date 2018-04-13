@@ -1,7 +1,5 @@
 //let userInput = prompt("Enter the password:");
 
-//firebaseRef.push().set("lol"); //random id
-
 let firebaseRef = firebase.database().ref();
 let selectedDistrict;
 let nLists;
