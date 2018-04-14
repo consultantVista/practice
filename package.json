@@ -1,0 +1,48 @@
+{
+  "name": "lebanese-elections-ts",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./public/dev/index.html --open",
+    "build": "parcel build ./src/index.tsx --out-dir build/ && cp ./public/prod/index.html ./build/index.html",
+    "serve:build": "serve --open ./build/",
+    "test": "jest --watch --coverage",
+    "deploy": "cd build/ && surge ./"
+  },
+  "dependencies": {
+    "firebase": "^4.12.1",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.5",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.1.3",
+    "@types/jquery": "^3.3.1",
+    "@types/lodash": "^4.14.106",
+    "@types/react": "^16.0.38",
+    "@types/react-dom": "^16.0.4",
+    "comment-json": "^1.1.3",
+    "jest": "^22.3.0",
+    "parcel-bundler": "^1.7.0",
+    "prettier": "^1.10.2",
+    "react-test-renderer": "^16.2.0",
+    "serve": "^6.4.10",
+    "surge": "^0.20.1",
+    "typescript": "^2.8.1"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js"
+    ],
+    "transform": {
+      "^.+\\.(ts|tsx)$": "<rootDir>/preprocessor.js"
+    },
+    "testMatch": [
+      "**/__tests__/*.(ts|tsx|js)"
+    ]
+  }
+}
