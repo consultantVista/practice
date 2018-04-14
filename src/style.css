@@ -1,0 +1,46 @@
+th,
+td {
+  text-align: center;
+}
+
+/*
+body
+{
+    color:blue;
+    background-color: rgb(200,23,111);
+    background-color: #ffcf79;
+    font-size:small;
+    line-height: 150%;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 20px;
+    border-radius: 10px;
+}
+h4
+{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid black;
+    font-weight: bolder;
+    text-decoration: overline;
+    font-style: italic;
+}
+h6.green
+{
+    color: green;
+}
+h5, h6
+{
+    color: red
+}
+.yellow
+{
+    background-color: peru;
+}
+#table3
+{
+    color:green;
+}
+*/
